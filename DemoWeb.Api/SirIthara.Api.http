@@ -1,0 +1,6 @@
+@SirIthara.Api_HostAddress = http://localhost:5058
+
+GET {{SirIthara.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
